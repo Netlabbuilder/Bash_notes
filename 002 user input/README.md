@@ -17,3 +17,6 @@ Hungtx
 Hello World from Hungtx
 [hungtx@linux bash_scripts]$ 
 ```
+4. The default type of input captured via read is a **string**.
+5. You can convert the string to other types (like integers) as needed for specific operations.
+6. When performing arithmetic or numerical operations, Bash automatically treats the string as a number if it is valid.
