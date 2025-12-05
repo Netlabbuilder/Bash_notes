@@ -1,2 +1,2 @@
-# Bash scripting
-My notes on Bash scripting.
+# Bash_notes
+My notes on Bash.
